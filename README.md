@@ -21,7 +21,7 @@ A web-based application that uses deep learning (LSTM) to predict stock market t
 
 1. **Clone the repository**  
    bash  
-   git clone https://github.com/yourusername/your-repo-name.git  
+   git clone https://github.com/baasil22/your-repo-name.git  
    cd your-repo-name  
 
 
