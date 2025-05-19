@@ -84,7 +84,4 @@ A web-based application that uses deep learning (LSTM) to predict stock market t
 
 Feel free to open issues or submit pull requests.
 
-## License
-
-Specify your license here (e.g., MIT)
 
